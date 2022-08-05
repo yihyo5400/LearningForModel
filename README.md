@@ -1,5 +1,8 @@
 # LearningForModel
 
+데이터는 데이콘 - 쇼핑몰 지점별 매출액 예측 이용
+https://dacon.io/competitions/official/235942/data
+
 1. xgboost는 설치를 해야지 쓸 수 있다.. 
   anaconda로 jupyter notebook을 이용하므로 pip install-이 아닌 conda install -c conda-forge xgboost 를 통해 설치했어야 함
     https://bobbyhadz.com/blog/python-no-module-named-xgboost
